@@ -1,5 +1,8 @@
 _repo: Le-temps-retrouve-Tome-2-de-2-b-A-la-recherche-du-temps-perdu-volVII_74091
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74091-h/images/cover.jpg
 creator:
   author:
     agent_name: Proust, Marcel
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Marcel_Proust
     - https://fr.wikipedia.org/wiki/Marcel_Proust
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74091#Le-temps-retrouve-Tome-2-de-2-b-A-la-recherche-du-temps-perdu-volVII
 gutenberg_issued: '2024-07-21'
 gutenberg_type: Text
 identifiers:
